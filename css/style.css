@@ -1,0 +1,46 @@
+body {
+  background-color: #529cb3;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 600;
+  min-height: 2000px;
+}
+.l-1 {
+  border: 2px solid #28611a;
+  border-radius: 12px;
+  background-color: white;
+  padding: 20px;
+}
+.l-2 {
+  border: 2px solid #529cb3;
+  border-radius: 12px;
+  background-color: #3e778c;
+  padding: 20px;
+}
+.btn {
+  border: 1.5px solid #2e6d80;
+  border-radius: 8px;
+  padding: 3px;
+  text-decoration: none;
+  color: #2e6d80;
+  background-color: #fff;
+  font-weight: 600;
+}
+.btn:hover {
+  border: 1.5px solid black;
+  color: #fff;
+  background-color: #136d28;
+}
+.btn-reset {
+  border: 1.5px solid #802e2e;
+  border-radius: 8px;
+  padding: 3px;
+  text-decoration: none;
+  color: #802e2e;
+  background-color: #fff;
+  font-weight: 600;
+}
+.btn-reset:hover {
+  border: 1.5px solid black;
+  color: #fff;
+  background-color: #802e2e;
+}
